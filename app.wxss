@@ -1,5 +1,5 @@
 /**app.wxss**/
-/* @import "./styles/iconfont.wxss"; */
+@import "./styles/iconfont.wxss";
 
 page,
 view,
